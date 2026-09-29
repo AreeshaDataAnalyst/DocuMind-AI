@@ -1,0 +1,17 @@
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# API keys and secrets
+.streamlit/secrets.toml
+
+# Local PDF files
+*.pdf
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
